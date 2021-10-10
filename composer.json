@@ -1,0 +1,19 @@
+{
+    "name": "admin/test-packagist",
+    "description": "Learning",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yanholenko Oleksandr",
+            "email": "jangl@i.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
